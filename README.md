@@ -11,3 +11,4 @@ Python
 ## 목표
 * [Tabnet](https://github.com/dreamquark-ai/tabnet)이란 딥러닝 모델을 활용할 계획입니다.
 * 해당 모델을 통해 75~80%의 정확도 달성을 목표합니다.
+*
