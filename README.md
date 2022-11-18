@@ -27,3 +27,6 @@ Python
 * 모델 탐색 (완료)
 * 모델 파라메터 최적화 (완료)
 * private 점수 약 77%
+
+## 데이터 출처
+* [월간 데이콘 심리 성향 예측 AI 경진대회](https://dacon.io/competitions/open/235647/overview/description)
